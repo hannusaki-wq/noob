@@ -1,0 +1,8 @@
+name = "telegram-bot"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "adir"
+database_id = "743f8387-bfed-461d-9b3a-a8604a29189b"
